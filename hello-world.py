@@ -5,5 +5,5 @@
 
 # This program prints Hello, world!
 
-str = 'world'
+str = 'World1'
 print('Hello, ' + str + '!')
